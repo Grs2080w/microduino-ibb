@@ -39,3 +39,6 @@ Certifique-se de que a versão da biblioteca é compatível com a versão da Ard
 ## Suporte
 
 Para mais informações sobre as bibliotecas e módulos, visite o site oficial do Microduino ou consulte os guias disponíveis na pasta principal do repositório.
+
+## Link do Repositório git hub:
+[https://github.com/wasdpkj/Microduino-IDE-Support](https://github.com/wasdpkj/Microduino-IDE-Support)
