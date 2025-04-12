@@ -7,6 +7,8 @@
 
     this code will not work on arduino ide because the global var &Serial1 is not defined in arduino ide, only in mdesigner, but is just transfer the code to mdesigner in mode offline and add the code.
 
+	This code do not include the line founder because the line follower dont work currently, but the block-schema in this dir, have the line follower code.
+
 
 
 
